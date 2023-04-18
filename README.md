@@ -2,6 +2,8 @@
 
 A test to see which of the Static Site Generators I should use for my personal website and blog.
 
+Tutorial at: <https://www.telerik.com/blogs/building-blog-with-nextjs> and <https://nextjs.org/learn/basics/data-fetching/blog-data>
+
 # Next.js - based on React
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
